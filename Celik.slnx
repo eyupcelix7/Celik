@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../Modul.10_1/Modul.10_1.csproj" />
+  <Project Path="../Modul.11_1/Modul.11_1.csproj" />
+  <Project Path="../Modul.7_1/Modul.7_1.csproj" />
+  <Project Path="../Modul.7_3/Modul.7_3.csproj" />
+  <Project Path="../Modul.8_1/Modul.8_1.csproj" />
+  <Project Path="../Modul.8_2/Modul.8_2.csproj" />
+  <Project Path="../Modul.9_1/Modul.9_1.csproj" />
+  <Project Path="../Modul.9_2/Modul.9_2.csproj" />
+  <Project Path="Celik.csproj" />
+  <Project Path="Modul.7_2/Modul.7_2.csproj" />
+</Solution>
